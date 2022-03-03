@@ -1,0 +1,6 @@
+C:\Users\c_class\Desktop\ср3\ср3 2 вариант\1\bin\Debug\1.exe.config
+C:\Users\c_class\Desktop\ср3\ср3 2 вариант\1\bin\Debug\1.exe
+C:\Users\c_class\Desktop\ср3\ср3 2 вариант\1\bin\Debug\1.pdb
+C:\Users\c_class\Desktop\ср3\ср3 2 вариант\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\ср3\ср3 2 вариант\1\obj\Debug\1.exe
+C:\Users\c_class\Desktop\ср3\ср3 2 вариант\1\obj\Debug\1.pdb
